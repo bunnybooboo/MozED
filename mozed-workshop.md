@@ -52,4 +52,4 @@ ACTIVITY - Choose the sky (3 options)
 Demos
 =====
 
-Demos
+[Demos](demos.md)
