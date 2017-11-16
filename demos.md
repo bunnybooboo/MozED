@@ -2,18 +2,20 @@ Presentations in VR
 -------------------
 [Demo 1](https://slightlyoffbeat.github.io/marketing-vr/) 
 - Presentations maze.
+- Move the camera using WASD or arrow keys on keyboard. Turn by clicking and dragging with the mouse. 
 - This comes from https://hacks.mozilla.org/2017/09/i-built-something-with-a-frame-in-2-days-and-you-can-too/
 
 Apollo 11
 ---------
 [Demo 2](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/)
-- Inside NASA's Apollo 11 - Demo of 360 degree sky.
+- Inside NASA's Apollo 11 - Demo of 360 degree sky. Turn by clicking and dragging with the mouse.
 - Search online for 'equirectangular' images.
 
 Virtual Building Design
 -----------------------
 [Demo 3](https://3dio-aframe.glitch.me/)
 - Architecture simulations in the Web browser. Real businesses are using VR already! This demo is from Archilogic.
+- Move the camera using WASD or arrow keys on the keyboard. Turn by clicking and dragging with the mouse.
 
 More
 ----
