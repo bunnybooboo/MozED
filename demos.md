@@ -8,7 +8,8 @@ Presentations in VR
 Apollo 11
 ---------
 [Demo 2](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/)
-- Inside NASA's Apollo 11 - Demo of 360 degree sky. Turn by clicking and dragging with the mouse.
+- Inside NASA's Apollo 11 - Demo of 360 degree sky. 
+- Turn by clicking and dragging with the mouse.
 - Search online for 'equirectangular' images.
 
 Virtual Building Design
