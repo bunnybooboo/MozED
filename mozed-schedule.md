@@ -1,7 +1,8 @@
-TALK - Intro to what is A-Frame? slide-deck?
+TALK - Intro to what is A-Frame?
+    - [Slides](https://bunnybooboo.github.io/mozed/mozed-aframe-slides/index.html)
 
-TALK - Understand 3D coordinates (cartesian plane via mathematician Descartes in 1637) - XYZ (show on hand)
-e.g. https://d2t1xqejof9utc.cloudfront.net/pictures/files/19711/medium.png?1367580819
+TALK - Understand 3D coordinates (cartesian plane via mathematician Descartes in 1637) 
+    - XYZ (show on [Hand](https://d2t1xqejof9utc.cloudfront.net/pictures/files/19711/medium.png?1367580819))
 
 ACTIVITY - Move box position on plane
 
