@@ -17,4 +17,7 @@ Architecture simulations in the Web browser.
 More
 ----
 [aframe.io](https://aframe.io/)
-A-Frame website - more demos, A-Frame School, and documentation.
+A-Frame website - more demos, A-Frame School, and documentation. ADVANCED.
+
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
+More advanced documentation. ADVANCED.
