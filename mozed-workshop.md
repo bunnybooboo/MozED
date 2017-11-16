@@ -17,7 +17,7 @@ ACTIVITY - Edit size/scale of one box
 
 ACTIVITY - Edit colour/color of box (most code languages use US English as a standard)
 
-Color keywords - [MDN Web Doc](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords)
+Color keywords - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords)
 
 2.tree.html
 ===========
