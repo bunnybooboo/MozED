@@ -1,5 +1,5 @@
 # MozED
-MozED worlshop for KS2 students. [Mozfest Fringe](https://mozillafestival.org/fring) event.
+MozED worlshop for KS2 students. [Mozfest Fringe](https://mozillafestival.org/fringe) event.
 
 London November 17, 2017
 
