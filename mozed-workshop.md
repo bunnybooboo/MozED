@@ -19,7 +19,7 @@ ACTIVITY - Edit colour/color of box (most code languages use US English as a sta
 
 Color keywords - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords)
 
-2.tree.html
+2-tree.html
 ===========
 
 TALK - Make a tree
@@ -35,8 +35,8 @@ ACTIVITY - Edit color accordingly
 
 ACTIVITY - Add more trees
 
-3-plane
-=======
+3-plane.html
+============
 
 TALK - Adding the floor and wall
 
