@@ -9,13 +9,13 @@ TALK - Understand 3D co-ordinates
 1-box.html
 ==========
 
-ACTIVITY - Move one of the boxes
+ACTIVITY 1 - Move one of the boxes
 
-ACTIVITY - Edit size/scale of one box
+ACTIVITY 2 - Edit size/scale of one box
 
     - the measure of units in A-Frame are in meters
 
-ACTIVITY - Edit colour/color of box (most code languages use US English as a standard)
+ACTIVITY 3- Edit colour/color of box (most code languages use US English as a standard)
 
 Color keywords - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#Color_keywords)
 
@@ -27,13 +27,13 @@ TALK - Make a tree
 Wait for David's instructions to start.
 
 
-ACTIVITY - Stack boxes on top of each other
+ACTIVITY 1 - Stack boxes on top of each other
 
-ACTIVITY - Stack the cone on top to show leaves of tree
+ACTIVITY 2 - Stack the cone on top to show leaves of tree
 
-ACTIVITY - Edit color accordingly
+ACTIVITY 3 - Edit color accordingly
 
-ACTIVITY - Add more trees
+ACTIVITY 4 - Add more trees
 
 3-plane.html
 ============
@@ -43,11 +43,9 @@ TALK - Adding the floor and wall
 Wait for David's instructions to start.
 
 
-ACTIVITY - Add floor/horizontal plane to new scene
+ACTIVITY 1 - Add floor/horizontal plane to new scene
 
-ACTIVITY - Add wall/vertical plane to new scene
-
-ACTIVITY - Choose the sky (3 options)
+ACTIVITY 2 - Add wall/vertical plane to new scene
 
 Demos
 =====
