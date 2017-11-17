@@ -167,7 +167,7 @@ A web framework for building virtual reality experiences
 <div class="captioned-image-row">
   <div>
     <img data-src="media/img/github.png">
-    <i>180+ contributors 6000+ Stargazers</i>
+    <i>200+ contributors 6000+ Stargazers</i>
   </div>
   <div>
     <img data-src="media/img/slack.png">
